@@ -2,7 +2,7 @@
 
 class Node {
 public:
-	int Value;
+	int lety
 	Node * Next;
 };
 
